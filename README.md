@@ -133,3 +133,119 @@ class AbdusalomSharifov:
 ![](https://komarev.com/ghpvc/?username=sharifovabdusalom&style=for-the-badge&color=blue)
 
 </div>
+
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🎓 EduCore LMS
+
+Modern Learning Management System built for schools, universities and educational centers.
+
+**Tech Stack**
+
+- FastAPI
+- PostgreSQL
+- Flutter
+- Docker
+
+🔗 *Coming Soon*
+
+</td>
+
+<td width="50%">
+
+### 🐍 Python Roadmap
+
+Complete roadmap for learning Python from beginner to advanced with projects.
+
+**Topics**
+
+- Fundamentals
+- OOP
+- File Handling
+- Projects
+
+🔗 Repository:
+https://github.com/sharifovabdusalom/python-roadmap
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### ⚡ FastAPI Course
+
+Professional FastAPI course with real-world backend architecture.
+
+Topics include:
+
+- Authentication
+- JWT
+- CRUD
+- SQLAlchemy
+- Docker
+- Deployment
+
+🔗 Repository:
+https://github.com/sharifovabdusalom/fastapi-course
+
+</td>
+
+<td width="50%">
+
+### 🤖 Telegram Bots
+
+Automation bots for education, CRM systems and businesses.
+
+Built using:
+
+- Python
+- aiogram
+- FastAPI
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🏢 CRM Systems
+
+Custom CRM & ERP systems for companies.
+
+Features:
+
+- Employee Management
+- Reports
+- Finance
+- Analytics
+
+</td>
+
+<td width="50%">
+
+### 🚀 INNO HUB
+
+Educational platform focused on backend development, mentorship and real projects.
+
+Website:
+
+https://inno-hub.uz
+
+</td>
+
+</tr>
+
+</table>
