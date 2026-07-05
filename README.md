@@ -4,7 +4,7 @@
 
 ### Backend Engineer • FastAPI Developer • Flutter Developer • Open Source Educator
 
-<img src="assets/avatar.png" width="180" style="border-radius:50%" />
+<img src="assets/avatar.jpg" width="180" style="border-radius:50%" />
 
 <br><br>
 
